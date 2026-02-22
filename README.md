@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm [ikannbunterl]! 👋 🧣
 
-<!--
-**ikanbunterl/ikanbunterl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎂 24 August | ♍ Virgo Energy
 
-Here are some ideas to get you started:
+I’m a developer who spends as much time debugging code as I do listening to Taylor Swift on repeat.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ What I Do:
+* **Coding:** Turning coffee into clean code 💻
+* **Piano:** Playing melodies (mostly Taylor's Version) 🎹
+* **Cooking:** Mastermind in the kitchen 🍳
+* **Laundry:** Expert in making sure everything is "Clean" 🧼🧺
+
+---
+
+### 🎶 Current Status:
+> *"I'm the problem, it's me."* — Listening to **Taylor Swift** 24/7. 🧣✨
+
+---
+
+### 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikanbunterl&show_icons=true&theme=radical)
