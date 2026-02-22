@@ -20,4 +20,4 @@ I’m a developer who spends as much time debugging code as I do listening to Ta
 ---
 
 ### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikanbunterl&show_icons=true&theme=radical)
+![Your GitHub Stats]([https://github-readme-stats.vercel.app/api?username=ikanbunterl&show_icons=true&theme=radical](https://github.com/ikanbunterl#-24-august---virgo-energy))
