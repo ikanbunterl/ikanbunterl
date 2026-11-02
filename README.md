@@ -21,7 +21,7 @@ Born on **August 24th**, I’m a Virgo who thrives on logic, rhythm, and the per
 *"It’s been a long time coming..."* 
 
 My proudest creation right now is **NataHidup**. It's the ultimate project where I poured my logic, creativity, and "mastermind" planning into one spectacular application. 
-🔗 **[Check out NataHidup here!]((https://github.com/ikanbunterl/NataHidup))**
+🔗 **[Check out NataHidup here!](https://github.com/ikanbunterl/NataHidup)**
 
 ---
 
@@ -30,7 +30,6 @@ My proudest creation right now is **NataHidup**. It's the ultimate project where
 - **💻 The Coder Era:** Turning complex problems into elegant solutions. Debugging is just my version of solving a Taylor Swift easter egg.
 - **🎹 The Pianist Era:** When the screen goes dark, the music starts. I find my peace in the black and white keys.
 - **🍳 The Chef Era:** Mastermind in the kitchen. Experimenting with recipes is my favorite kind of "refactoring."
-- **🧼 The "Clean" Era:** There’s a certain therapy in laundry—making everything feel as fresh as the tracks from *1989*.
 
 ---
 
