@@ -4,7 +4,7 @@
   
   *I’m a developer who believes that life is best lived one line of code at a time—preferably with a Taylor Swift bridge playing in the background.* 🎶💻
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Turning+complex+problems+into+elegant+solutions;Debugging+like+finding+easter+eggs;React+,+Python+,+and+Coffee)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Turning+complex+problems+into+elegant+solutions;Debugging+like+finding+easter+eggs;Python+,+JS+,+Tailwind+,+and+Coffee)](https://git.io/typing-svg)
   
 </div>
 
@@ -21,7 +21,7 @@ Born on **August 24th**, I’m a Virgo who thrives on logic, rhythm, and the per
 *"It’s been a long time coming..."* 
 
 My proudest creation right now is **NataHidup**. It's the ultimate project where I poured my logic, creativity, and "mastermind" planning into one spectacular application. 
-🔗 **[Check out NataHidup here!]((#))** *(Ganti "#" dengan link repo NataHidup)*
+🔗 **[Check out NataHidup here!]((https://github.com/ikanbunterl/NataHidup))**
 
 ---
 
@@ -37,10 +37,12 @@ My proudest creation right now is **NataHidup**. It's the ultimate project where
 ### 💻 My Tech Stack
 *(The instruments I use to write my code)*
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-*(Tambahkan badge lain sesuai tech stack kamu di sini)*
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
 
 ---
 
@@ -62,13 +64,10 @@ My proudest creation right now is **NataHidup**. It's the ultimate project where
 ### 🤝 Let's Connect!
 *"Long live all the magic we made."* 🏰 
 
-If you want to talk about **React, Python, or why 'All Too Well (10 Minute Version)' is an absolute masterpiece**, feel free to reach out!
+If you want to talk about **Python, JavaScript, or why 'All Too Well (10 Minute Version)' is an absolute masterpiece**, feel free to reach out!
 
 <div align="left">
-  <a href="mailto:emailmu@domain.com">
+  <a href="mailto:irkhamdaffa74@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/username-mu">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
